@@ -3,3 +3,5 @@
 # Desenvolvedores
 Clau Pinheiro
 claudesenvolvedor@gmail.com
+Lucileide Sudré
+lucileidedacome@hotmail.com
