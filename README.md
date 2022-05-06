@@ -14,3 +14,6 @@ lucileidedacome@hotmail.com
 Adicionei uma branch ao projeto chamada package
 Criação do projeto e estrutura de packages e upado para ogithub
 Packages criadas ao projeto: contas, tipodecontas, main	
+
+# update do projeto com os packages
+Dentro de cada package clss de teste em branco para servirem como guia
