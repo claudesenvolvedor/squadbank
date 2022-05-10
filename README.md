@@ -14,3 +14,10 @@ lucileidedacome@hotmail.com
 Adicionei uma branch ao projeto chamada package
 Criação do projeto e estrutura de packages e upado para ogithub
 Packages criadas ao projeto: contas, tipodecontas, main	
+
+# 09/05/2022 Atualização do projeto
+
+criada a class Conta
+Criada a class ClienteSimples
+Criada a class ClienteEspecial
+Criada a class AppSquadBank onde terá o método main e será executado o projeto
